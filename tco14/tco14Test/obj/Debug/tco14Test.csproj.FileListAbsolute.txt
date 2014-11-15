@@ -1,0 +1,7 @@
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\bin\Debug\tco14Test.dll
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\bin\Debug\tco14Test.pdb
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\bin\Debug\tco14.dll
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\bin\Debug\tco14.pdb
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\obj\Debug\tco14Test.csprojResolveAssemblyReference.cache
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\obj\Debug\tco14Test.dll
+D:\Pessoal\Projetos\TCO14\dotNetTCO14\tco14\tco14Test\obj\Debug\tco14Test.pdb
